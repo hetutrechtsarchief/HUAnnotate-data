@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-11-16T10:38:18.577+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2214" WIDTH="1308">
+         <TopMargin HEIGHT="0" WIDTH="1308" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2214" WIDTH="37" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2214" WIDTH="0" VPOS="0" HPOS="1308"/>
+         <BottomMargin HEIGHT="0" WIDTH="1308" VPOS="2214" HPOS="0"/>
+         <PrintSpace HEIGHT="2214" WIDTH="1271" VPOS="0" HPOS="37">
+            <TextBlock ID="r_2_1"
+                       HEIGHT="-9.999999E6"
+                       WIDTH="-9.999999E6"
+                       VPOS="9999999"
+                       HPOS="9999999">
+               <Shape>
+                  <Polygon POINTS=", , , ,"/>
+               </Shape>
+            </TextBlock>
+            <Illustration ID="r_1" HEIGHT="2156" WIDTH="287" VPOS="32" HPOS="37"/>
+            <Illustration ID="r_3" HEIGHT="60" WIDTH="35" VPOS="115" HPOS="1273"/>
+            <Illustration ID="r_4" HEIGHT="7" WIDTH="33" VPOS="231" HPOS="1274"/>
+            <Illustration ID="r_5" HEIGHT="26" WIDTH="54" VPOS="1297" HPOS="1253"/>
+            <Illustration ID="r_6" HEIGHT="13" WIDTH="23" VPOS="1590" HPOS="1285"/>
+            <Illustration ID="r_7" HEIGHT="43" WIDTH="20" VPOS="1798" HPOS="1287"/>
+            <Illustration ID="r_8" HEIGHT="10" WIDTH="20" VPOS="2201" HPOS="166"/>
+            <Illustration ID="r_9" HEIGHT="23" WIDTH="21" VPOS="0" HPOS="535"/>
+            <Illustration ID="r_10" HEIGHT="21" WIDTH="24" VPOS="0" HPOS="819"/>
+            <Illustration ID="r_11" HEIGHT="22" WIDTH="17" VPOS="2192" HPOS="309"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

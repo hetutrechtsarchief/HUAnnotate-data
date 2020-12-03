@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2020-11-16T10:37:37.951+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2210" WIDTH="1384">
+         <TopMargin HEIGHT="29" WIDTH="1384" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1229" WIDTH="238" VPOS="29" HPOS="0"/>
+         <RightMargin HEIGHT="1229" WIDTH="0" VPOS="29" HPOS="1384"/>
+         <BottomMargin HEIGHT="952" WIDTH="1384" VPOS="1258" HPOS="0"/>
+         <PrintSpace HEIGHT="1229" WIDTH="1146" VPOS="29" HPOS="238">
+            <TextBlock ID="r_1_1" HEIGHT="103" WIDTH="852" VPOS="933" HPOS="238">
+               <Shape>
+                  <Polygon POINTS="238,933 1090,933 1090,1036 238,1036"/>
+               </Shape>
+               <TextLine ID="tl_1"
+                         BASELINE="980"
+                         HEIGHT="46"
+                         WIDTH="810"
+                         VPOS="934"
+                         HPOS="279">
+                  <String HEIGHT="46"
+                          WIDTH="174"
+                          VPOS="934"
+                          HPOS="260"
+                          CONTENT="Geene"/>
+                  <SP HEIGHT="46" WIDTH="19" VPOS="934" HPOS="433"/>
+                  <String HEIGHT="46"
+                          WIDTH="270"
+                          VPOS="934"
+                          HPOS="375"
+                          CONTENT="exemplaren"/>
+                  <SP HEIGHT="46" WIDTH="19" VPOS="934" HPOS="645"/>
+                  <String HEIGHT="46"
+                          WIDTH="193"
+                          VPOS="934"
+                          HPOS="588"
+                          CONTENT="worden"/>
+                  <SP HEIGHT="46" WIDTH="19" VPOS="934" HPOS="780"/>
+                  <String HEIGHT="46"
+                          WIDTH="270"
+                          VPOS="934"
+                          HPOS="723"
+                          CONTENT="afgeleverd"/>
+                  <SP HEIGHT="46" WIDTH="19" VPOS="934" HPOS="993"/>
+                  <String HEIGHT="46" WIDTH="135" VPOS="934" HPOS="935" CONTENT="dan"/>
+                  <SP HEIGHT="46" WIDTH="19" VPOS="934" HPOS="1070"/>
+                  <String HEIGHT="46" WIDTH="96" VPOS="934" HPOS="993" CONTENT="die"/>
+               </TextLine>
+               <TextLine ID="tl_2"
+                         BASELINE="1035"
+                         HEIGHT="42"
+                         WIDTH="493"
+                         VPOS="993"
+                         HPOS="239">
+                  <String HEIGHT="42" WIDTH="99" VPOS="993" HPOS="223" CONTENT="ge"/>
+                  <SP HEIGHT="42" WIDTH="16" VPOS="993" HPOS="321"/>
+                  <String HEIGHT="42"
+                          WIDTH="131"
+                          VPOS="993"
+                          HPOS="272"
+                          CONTENT="teek"/>
+                  <SP HEIGHT="42" WIDTH="16" VPOS="993" HPOS="403"/>
+                  <String HEIGHT="42" WIDTH="115" VPOS="993" HPOS="354" CONTENT="end"/>
+                  <SP HEIGHT="42" WIDTH="16" VPOS="993" HPOS="469"/>
+                  <String HEIGHT="42"
+                          WIDTH="131"
+                          VPOS="993"
+                          HPOS="420"
+                          CONTENT="door"/>
+                  <SP HEIGHT="42" WIDTH="16" VPOS="993" HPOS="551"/>
+                  <String HEIGHT="42" WIDTH="99" VPOS="993" HPOS="502" CONTENT="de"/>
+                  <SP HEIGHT="42" WIDTH="16" VPOS="993" HPOS="601"/>
+                  <String HEIGHT="42"
+                          WIDTH="197"
+                          VPOS="993"
+                          HPOS="535"
+                          CONTENT="uitgevers."/>
+               </TextLine>
+            </TextBlock>
+            <GraphicalElement ID="r_2" HEIGHT="6" WIDTH="91" VPOS="1180" HPOS="1045"/>
+            <GraphicalElement ID="r_3" HEIGHT="5" WIDTH="94" VPOS="1239" HPOS="604"/>
+            <GraphicalElement ID="r_4" HEIGHT="6" WIDTH="111" VPOS="1242" HPOS="752"/>
+            <GraphicalElement ID="r_5" HEIGHT="3" WIDTH="76" VPOS="1249" HPOS="1122"/>
+            <GraphicalElement ID="r_6" HEIGHT="5" WIDTH="67" VPOS="1253" HPOS="942"/>
+            <GraphicalElement ID="r_7" HEIGHT="46" WIDTH="2" VPOS="40" HPOS="1369"/>
+            <GraphicalElement ID="r_8" HEIGHT="30" WIDTH="2" VPOS="134" HPOS="1370"/>
+            <GraphicalElement ID="r_9" HEIGHT="404" WIDTH="8" VPOS="29" HPOS="1376"/>
+            <GraphicalElement ID="r_10" HEIGHT="615" WIDTH="3" VPOS="433" HPOS="1381"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,3336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2019-06-24T17:07:31.802+02:00</Created>
+        <LastChange>2019-06-24T17:08:40.836+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: DutchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="176305" pageId="6791601" pageNr="32" tsid="11861645" status="IN_PROGRESS" userId="35672" imgUrl="https://files.transkribus.eu/Get?id=DVYLKCHBSAGCAADKSJUNDYZI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OABVDTKUOVYMAKPOWMOOLROA" imageId="4144468"/>
+    </Metadata>
+    <Page imageFilename="MMUTRA01_001427001_00032_master.jpg" imageWidth="1412" imageHeight="2238">
+        <PrintSpace>
+            <Coords points="234,30 1412,30 1412,2211 234,2211"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1605519471029" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_3_2"/>
+                <RegionRefIndexed index="4" regionRef="r_3_3"/>
+                <RegionRefIndexed index="5" regionRef="r_3_4"/>
+                <RegionRefIndexed index="6" regionRef="r_3_5"/>
+                <RegionRefIndexed index="7" regionRef="r_3_6"/>
+                <RegionRefIndexed index="8" regionRef="r_3_7"/>
+                <RegionRefIndexed index="9" regionRef="r_3_8"/>
+                <RegionRefIndexed index="10" regionRef="r_3_9"/>
+                <RegionRefIndexed index="11" regionRef="r_3_10"/>
+                <RegionRefIndexed index="12" regionRef="r_3_11"/>
+                <RegionRefIndexed index="13" regionRef="r_3_12"/>
+                <RegionRefIndexed index="14" regionRef="r_3_13"/>
+                <RegionRefIndexed index="15" regionRef="r_3_14"/>
+                <RegionRefIndexed index="16" regionRef="r_3_15"/>
+                <RegionRefIndexed index="17" regionRef="r_3_16"/>
+                <RegionRefIndexed index="18" regionRef="r_3_17"/>
+                <RegionRefIndexed index="19" regionRef="r_3_18"/>
+                <RegionRefIndexed index="20" regionRef="r_3_19"/>
+                <RegionRefIndexed index="21" regionRef="r_3_20"/>
+                <RegionRefIndexed index="22" regionRef="r_3_21"/>
+                <RegionRefIndexed index="23" regionRef="r_3_22"/>
+                <RegionRefIndexed index="24" regionRef="r_3_23"/>
+                <RegionRefIndexed index="25" regionRef="r_3_24"/>
+                <RegionRefIndexed index="26" regionRef="r_3_25"/>
+                <RegionRefIndexed index="27" regionRef="r_3_26"/>
+                <RegionRefIndexed index="28" regionRef="r_3_27"/>
+                <RegionRefIndexed index="29" regionRef="r_3_28"/>
+                <RegionRefIndexed index="30" regionRef="r_3_29"/>
+                <RegionRefIndexed index="31" regionRef="r_3_30"/>
+                <RegionRefIndexed index="32" regionRef="r_3_31"/>
+                <RegionRefIndexed index="33" regionRef="r_3_32"/>
+                <RegionRefIndexed index="34" regionRef="r_3_33"/>
+                <RegionRefIndexed index="35" regionRef="r_3_34"/>
+                <RegionRefIndexed index="36" regionRef="r_3_35"/>
+                <RegionRefIndexed index="37" regionRef="r_3_36"/>
+                <RegionRefIndexed index="38" regionRef="r_3_37"/>
+                <RegionRefIndexed index="39" regionRef="r_3_38"/>
+                <RegionRefIndexed index="40" regionRef="r_3_39"/>
+                <RegionRefIndexed index="41" regionRef="r_3_40"/>
+                <RegionRefIndexed index="42" regionRef="r_3_41"/>
+                <RegionRefIndexed index="43" regionRef="r_3_42"/>
+                <RegionRefIndexed index="44" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="1070,850 1308,850 1308,887 1070,887"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1071,851 1307,851 1307,886 1071,886"/>
+                <Baseline points="1071,878 1248,886 1281,880 1307,881"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1071,851 1248,851 1248,886 1071,886"/>
+                    <TextEquiv>
+                        <Unicode>oudegraclil,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac27" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1264,854 1281,854 1281,880 1264,880"/>
+                    <TextEquiv>
+                        <Unicode>II</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac33" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1299,856 1307,856 1307,881 1299,881"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>oudegraclil, II 1</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>oudegraclil, II 1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="1024,1033 1089,1033 1089,1063 1024,1063"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1025,1034 1088,1034 1088,1062 1025,1062"/>
+                <Baseline points="1025,1061 1087,1062"/>
+                <Word id="w_w2aab1b3b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1025,1034 1087,1034 1087,1062 1025,1062"/>
+                    <TextEquiv>
+                        <Unicode>133.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>133.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>133.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="261,212 1126,212 1126,259 261,259"/>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="262,213 1125,213 1125,258 262,258"/>
+                <Baseline points="262,241 446,247 494,244 543,244 789,249 993,257 1040,251 1125,252"/>
+                <Word id="w_w2aab1b5b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="262,213 446,213 446,247 262,247"/>
+                    <TextEquiv>
+                        <Unicode>Elzendoorn,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1ac25" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="468,216 494,216 494,244 468,244"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1ac31" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="518,218 543,218 543,244 518,244"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1ac37" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="568,219 789,219 789,249 568,249"/>
+                    <TextEquiv>
+                        <Unicode>manufacturen,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1ac65" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="811,223 993,223 993,257 811,257"/>
+                    <TextEquiv>
+                        <Unicode>westerkade,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1ac89" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="1018,223 1040,223 1040,251 1018,251"/>
+                    <TextEquiv>
+                        <Unicode>K</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1ac93" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1062,224 1125,224 1125,253 1062,253"/>
+                    <TextEquiv>
+                        <Unicode>207.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Elzendoorn, J. in manufacturen, westerkade, K 207.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Elzendoorn, J. in manufacturen, westerkade, K 207.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:3;}">
+            <Coords points="260,249 949,249 949,295 260,295"/>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="261,250 948,250 948,294 261,294"/>
+                <Baseline points="261,278 394,285 443,280 501,281 585,287 644,276 842,292 884,286 948,287"/>
+                <Word id="w_w2aab1b5b2b3b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="261,250 394,250 394,285 261,285"/>
+                    <TextEquiv>
+                        <Unicode>Enibden,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="417,253 443,253 443,280 417,280"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="466,254 501,254 501,281 466,281"/>
+                    <TextEquiv>
+                        <Unicode>A.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac31" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="524,263 585,263 585,287 524,287"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac41" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="609,271 644,271 644,276 609,276"/>
+                    <TextEquiv>
+                        <Unicode>—</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac45" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="665,258 842,258 842,292 665,292"/>
+                    <TextEquiv>
+                        <Unicode>oudegraclil,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac71" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="865,259 884,259 884,286 865,286"/>
+                    <TextEquiv>
+                        <Unicode>11</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b3b1ac77" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="906,259 948,259 948,287 906,287"/>
+                    <TextEquiv>
+                        <Unicode>60.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Enibden, J. A. van, — oudegraclil, 11 60.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Enibden, J. A. van, — oudegraclil, 11 60.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:4;}">
+            <Coords points="259,286 1050,286 1050,332 259,332"/>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="260,287 1049,287 1049,331 260,331"/>
+                <Baseline points="260,315 403,322 487,316 535,318 582,318 675,326 733,314 941,330 982,324 1049,324"/>
+                <Word id="w_w2aab1b5b2b5b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="260,287 403,287 403,322 260,322"/>
+                    <TextEquiv>
+                        <Unicode>Embden,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b5b1ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="428,290 487,290 487,324 428,324"/>
+                    <TextEquiv>
+                        <Unicode>mej.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b5b1ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="510,291 535,291 535,318 510,318"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b5b1ac33" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="557,292 582,292 582,319 557,319"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b5b1ac39" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="607,301 675,301 675,326 607,326"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b5b1ac49" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="696,310 733,310 733,314 696,314"/>
+                    <TextEquiv>
+                        <Unicode>—</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b5b1ac53" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="753,296 941,296 941,330 753,330"/>
+                    <TextEquiv>
+                        <Unicode>oudegraclil,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b5b1ac79" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="964,297 982,297 982,324 964,324"/>
+                    <TextEquiv>
+                        <Unicode>B</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b5b1ac83" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="1004,297 1049,297 1049,325 1004,325"/>
+                    <TextEquiv>
+                        <Unicode>GO.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Embden, mej. J. J. van, — oudegraclil, B GO.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Embden, mej. J. J. van, — oudegraclil, B GO.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_4" custom="readingOrder {index:5;}">
+            <Coords points="258,323 1152,323 1152,370 258,370"/>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="259,324 1151,324 1151,369 259,369"/>
+                <Baseline points="259,352 392,357 447,353 531,361 700,358 1021,367 1064,361 1150,363"/>
+                <Word id="w_w2aab1b5b2b7b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="259,324 392,324 392,357 259,357"/>
+                    <TextEquiv>
+                        <Unicode>Embden,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b7b1ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="415,327 447,327 447,353 415,353"/>
+                    <TextEquiv>
+                        <Unicode>G.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b7b1ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="471,335 531,335 531,361 471,361"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b7b1ac33" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="554,329 700,329 700,366 554,366"/>
+                    <TextEquiv>
+                        <Unicode>behanger,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b7b1ac53" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="721,332 1021,332 1021,367 721,367"/>
+                    <TextEquiv>
+                        <Unicode>predikheerenstraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b7b1ac93" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="1046,334 1064,334 1064,361 1046,361"/>
+                    <TextEquiv>
+                        <Unicode>il</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b7b1ac99" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1087,335 1150,335 1150,363 1087,363"/>
+                    <TextEquiv>
+                        <Unicode>423.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Embden, G. van, behanger, predikheerenstraat, il 423.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Embden, G. van, behanger, predikheerenstraat, il 423.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_5" custom="readingOrder {index:6;}">
+            <Coords points="257,359 1320,359 1320,443 257,443"/>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="259,360 1319,360 1319,408 259,408"/>
+                <Baseline points="259,388 354,396 409,389 461,390 511,391 642,400 721,394 857,396 923,399 1230,407 1252,401 1319,402"/>
+                <Word id="w_w2aab1b5b2b9b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="259,360 354,360 354,396 259,396"/>
+                    <TextEquiv>
+                        <Unicode>Emde,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b1ac13" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="375,361 409,361 409,389 375,389"/>
+                    <TextEquiv>
+                        <Unicode>K.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b1ac19" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="432,362 461,362 461,390 432,390"/>
+                    <TextEquiv>
+                        <Unicode>P.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b1ac25" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="484,363 511,363 511,392 484,392"/>
+                    <TextEquiv>
+                        <Unicode>F.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b1ac31" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="533,364 642,364 642,400 533,400"/>
+                    <TextEquiv>
+                        <Unicode>G.van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b1ac45" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="663,369 721,369 721,395 663,395"/>
+                    <TextEquiv>
+                        <Unicode>luit.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b1ac57" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="746,370 857,370 857,397 746,397"/>
+                    <TextEquiv>
+                        <Unicode>kol.der</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b1ac73" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="874,370 923,370 923,399 874,399"/>
+                    <TextEquiv>
+                        <Unicode>inf.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b1ac83" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="936,371 1230,371 1230,408 936,408"/>
+                    <TextEquiv>
+                        <Unicode>vvillevrouwensing.,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b1ad123" language="English" custom="readingOrder {index:9;}">
+                    <Coords points="1243,374 1252,374 1252,401 1243,401"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b1ad127" language="English" custom="readingOrder {index:10;}">
+                    <Coords points="1268,374 1319,374 1319,402 1268,402"/>
+                    <TextEquiv>
+                        <Unicode>104</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Emde, K. P. F. G.van, luit. kol.der inf. vvillevrouwensing., 1 104</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="258,397 1049,397 1049,442 258,442"/>
+                <Baseline points="258,425 372,431 425,426 478,426 562,435 765,432 929,440 983,434 1049,435"/>
+                <Word id="w_w2aab1b5b2b9b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="258,397 372,397 372,431 258,431"/>
+                    <TextEquiv>
+                        <Unicode>Einden,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b3ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="396,398 425,398 425,426 396,426"/>
+                    <TextEquiv>
+                        <Unicode>C.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b3ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="449,400 478,400 478,427 449,427"/>
+                    <TextEquiv>
+                        <Unicode>P.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b3ac29" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="502,410 562,410 562,435 502,435"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b3ac39" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="583,404 765,404 765,433 583,433"/>
+                    <TextEquiv>
+                        <Unicode>zadelmaker,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b3ac63" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="789,408 929,408 929,441 789,441"/>
+                    <TextEquiv>
+                        <Unicode>vreeburg,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b3ac83" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="952,408 983,408 983,434 952,434"/>
+                    <TextEquiv>
+                        <Unicode>1).</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b9b3ac91" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="1004,408 1049,408 1049,435 1004,435"/>
+                    <TextEquiv>
+                        <Unicode>99.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Einden, C. P. van, zadelmaker, vreeburg, 1). 99.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Emde, K. P. F. G.van, luit. kol.der inf. vvillevrouwensing., 1 104
+Einden, C. P. van, zadelmaker, vreeburg, 1). 99.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_6" custom="readingOrder {index:7;}">
+            <Coords points="258,432 795,432 795,477 258,477"/>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="259,433 794,433 794,476 259,476"/>
+                <Baseline points="259,462 384,468 431,463 485,456 689,475 730,469 794,470"/>
+                <Word id="w_w2aab1b5b2c11b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="259,433 384,433 384,468 259,468"/>
+                    <TextEquiv>
+                        <Unicode>Emmen,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c11b1ac15" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="406,437 431,437 431,463 406,463"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c11b1ac21" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="455,452 485,452 485,456 455,456"/>
+                    <TextEquiv>
+                        <Unicode>—</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c11b1ac25" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="511,440 689,440 689,475 511,475"/>
+                    <TextEquiv>
+                        <Unicode>oudegraclil,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c11b1ac51" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="709,441 730,441 730,469 709,469"/>
+                    <TextEquiv>
+                        <Unicode>B</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c11b1ac55" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="754,442 794,442 794,470 754,470"/>
+                    <TextEquiv>
+                        <Unicode>10.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Emmen, J. — oudegraclil, B 10.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Emmen, J. — oudegraclil, B 10.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_7" custom="readingOrder {index:8;}">
+            <Coords points="258,470 1002,470 1002,518 258,518"/>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="259,471 1001,471 1001,517 259,517"/>
+                <Baseline points="259,498 404,506 456,500 595,503 696,505 875,514 916,507 1001,507"/>
+                <Word id="w_w2aab1b5b2c13b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="259,471 404,471 404,506 259,506"/>
+                    <TextEquiv>
+                        <Unicode>Emmelot,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c13b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="428,473 456,473 456,500 428,500"/>
+                    <TextEquiv>
+                        <Unicode>P.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c13b1ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="479,476 595,476 595,504 479,504"/>
+                    <TextEquiv>
+                        <Unicode>barbier,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c13b1ac43" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="616,478 696,478 696,513 616,513"/>
+                    <TextEquiv>
+                        <Unicode>lange</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c13b1ac55" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="716,484 875,484 875,516 716,516"/>
+                    <TextEquiv>
+                        <Unicode>smeesleeg,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c13b1ac77" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="898,480 916,480 916,507 898,507"/>
+                    <TextEquiv>
+                        <Unicode>B</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c13b1ac81" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="938,481 1001,481 1001,509 938,509"/>
+                    <TextEquiv>
+                        <Unicode>G30.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Emmelot, P. barbier, lange smeesleeg, B G30.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Emmelot, P. barbier, lange smeesleeg, B G30.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_8" custom="readingOrder {index:9;}">
+            <Coords points="256,506 1164,506 1164,554 256,554"/>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="257,507 1163,507 1163,553 257,553"/>
+                <Baseline points="257,535 403,542 455,538 502,539 601,548 770,543 861,551 1054,551 1099,546 1163,546"/>
+                <Word id="w_w2aab1b5b2c15b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="257,507 403,507 403,542 257,542"/>
+                    <TextEquiv>
+                        <Unicode>Emmelot,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c15b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="427,510 455,510 455,538 427,538"/>
+                    <TextEquiv>
+                        <Unicode>P.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c15b1ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="477,512 502,512 502,539 477,539"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c15b1ac31" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="526,513 601,513 601,548 526,548"/>
+                    <TextEquiv>
+                        <Unicode>fruit,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c15b1ac45" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="622,520 770,520 770,549 622,549"/>
+                    <TextEquiv>
+                        <Unicode>groenlens</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c15b1ac65" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="790,525 861,525 861,551 790,551"/>
+                    <TextEquiv>
+                        <Unicode>enz.,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c15b1ac77" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="877,518 1054,518 1054,552 877,552"/>
+                    <TextEquiv>
+                        <Unicode>oudegraclit,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c15b1ad103" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="1078,519 1099,519 1099,546 1078,546"/>
+                    <TextEquiv>
+                        <Unicode>D</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c15b1ad107" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="1121,520 1163,520 1163,547 1121,547"/>
+                    <TextEquiv>
+                        <Unicode>GO.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Emmelot, P. in fruit, groenlens enz., oudegraclit, D GO.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Emmelot, P. in fruit, groenlens enz., oudegraclit, D GO.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_9" custom="readingOrder {index:10;}">
+            <Coords points="253,543 1034,543 1034,590 253,590"/>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="254,544 1033,544 1033,589 254,589"/>
+                <Baseline points="254,572 382,578 432,574 652,579 907,587 949,582 1033,583"/>
+                <Word id="w_w2aab1b5b2c17b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="254,544 382,544 382,578 254,578"/>
+                    <TextEquiv>
+                        <Unicode>Enderle,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c17b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="404,546 432,546 432,574 404,574"/>
+                    <TextEquiv>
+                        <Unicode>T.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c17b1ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="455,550 652,550 652,586 455,586"/>
+                    <TextEquiv>
+                        <Unicode>onderwijzer,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c17b1ac51" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="675,553 907,553 907,587 675,587"/>
+                    <TextEquiv>
+                        <Unicode>nicolaïkerkhof,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c17b1ac83" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="931,555 949,555 949,582 931,582"/>
+                    <TextEquiv>
+                        <Unicode>B</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c17b1ac87" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="972,556 1033,556 1033,583 972,583"/>
+                    <TextEquiv>
+                        <Unicode>271.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Enderle, T. onderwijzer, nicolaïkerkhof, B 271.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Enderle, T. onderwijzer, nicolaïkerkhof, B 271.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_10" custom="readingOrder {index:11;}">
+            <Coords points="251,580 1024,580 1024,627 251,627"/>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="252,581 1023,581 1023,626 252,626"/>
+                <Baseline points="253,608 379,615 427,611 484,612 700,617 887,622 924,618 1023,618"/>
+                <Word id="w_w2aab1b5b2c19b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="253,581 379,581 379,615 253,615"/>
+                    <TextEquiv>
+                        <Unicode>Enderle,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c19b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="400,584 427,584 427,611 400,611"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c19b1ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="448,583 484,583 484,612 448,612"/>
+                    <TextEquiv>
+                        <Unicode>M.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c19b1ac31" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="505,588 700,588 700,624 505,624"/>
+                    <TextEquiv>
+                        <Unicode>onderwijzer,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c19b1ac57" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="723,591 887,591 887,622 723,622"/>
+                    <TextEquiv>
+                        <Unicode>maliebaan,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c19b1ac79" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="912,590 924,590 924,618 912,618"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c19b1ac83" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="946,592 1023,592 1023,619 946,619"/>
+                    <TextEquiv>
+                        <Unicode>300«.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Enderle, J. M. onderwijzer, maliebaan, 1 300«.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Enderle, J. M. onderwijzer, maliebaan, 1 300«.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_11" custom="readingOrder {index:12;}">
+            <Coords points="252,616 816,616 816,660 252,660"/>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="253,617 815,617 815,659 253,659"/>
+                <Baseline points="253,645 378,651 427,648 480,648 534,642 714,658 749,653 815,655"/>
+                <Word id="w_w2aab1b5b2c21b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="253,617 378,617 378,651 253,651"/>
+                    <TextEquiv>
+                        <Unicode>Enderle,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c21b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="400,621 427,621 427,648 400,648"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c21b1ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="449,621 480,621 480,648 449,648"/>
+                    <TextEquiv>
+                        <Unicode>1).</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c21b1ac33" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="502,639 534,639 534,642 502,642"/>
+                    <TextEquiv>
+                        <Unicode>—</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c21b1ac37" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="558,625 714,625 714,658 558,658"/>
+                    <TextEquiv>
+                        <Unicode>bildsiraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c21b1ac61" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="737,626 749,626 749,653 737,653"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c21b1ac65" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="771,627 815,627 815,655 771,655"/>
+                    <TextEquiv>
+                        <Unicode>40.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Enderle, J. 1). — bildsiraat, 1 40.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Enderle, J. 1). — bildsiraat, 1 40.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_12" custom="readingOrder {index:13;}">
+            <Coords points="252,653 1086,653 1086,703 252,703"/>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="253,654 1085,654 1085,702 253,702"/>
+                <Baseline points="253,682 378,688 465,685 512,687 567,687 810,691 985,698 1020,692 1085,693"/>
+                <Word id="w_w2aab1b5b2c23b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="253,654 378,654 378,688 253,688"/>
+                    <TextEquiv>
+                        <Unicode>Enderle,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c23b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="402,659 465,659 465,693 402,693"/>
+                    <TextEquiv>
+                        <Unicode>mej.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c23b1ac29" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="487,658 512,658 512,687 487,687"/>
+                    <TextEquiv>
+                        <Unicode>S.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c23b1ac35" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="535,661 567,661 567,687 535,687"/>
+                    <TextEquiv>
+                        <Unicode>A.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c23b1ac41" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="588,663 810,663 810,699 588,699"/>
+                    <TextEquiv>
+                        <Unicode>onderwijzeres,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c23b1ac71" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="833,665 985,665 985,698 833,698"/>
+                    <TextEquiv>
+                        <Unicode>bildlslaat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c23b1ac95" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1008,665 1020,665 1020,692 1008,692"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c23b1ac99" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="1041,665 1085,665 1085,693 1041,693"/>
+                    <TextEquiv>
+                        <Unicode>46.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Enderle, mej. S. A. onderwijzeres, bildlslaat, 1 46.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Enderle, mej. S. A. onderwijzeres, bildlslaat, 1 46.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_13" custom="readingOrder {index:14;}">
+            <Coords points="256,691 1155,691 1155,738 256,738"/>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="257,692 1154,692 1154,737 257,737"/>
+                <Baseline points="257,718 384,724 439,721 491,722 708,727 1027,735 1071,730 1154,729"/>
+                <Word id="w_w2aab1b5b2c25b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="257,692 384,692 384,724 257,724"/>
+                    <TextEquiv>
+                        <Unicode>Enderlé,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c25b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="408,695 439,695 439,721 408,721"/>
+                    <TextEquiv>
+                        <Unicode>11.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c25b1ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="462,695 491,695 491,722 462,722"/>
+                    <TextEquiv>
+                        <Unicode>L.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c25b1ac33" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="514,699 708,699 708,734 514,734"/>
+                    <TextEquiv>
+                        <Unicode>onderwijzer,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c25b1ac59" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="731,702 1027,702 1027,735 731,735"/>
+                    <TextEquiv>
+                        <Unicode>predikheerenstraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c25b1ac99" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="1051,702 1071,702 1071,730 1051,730"/>
+                    <TextEquiv>
+                        <Unicode>II</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c25b1ad105" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1092,702 1154,702 1154,730 1092,730"/>
+                    <TextEquiv>
+                        <Unicode>432.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Enderlé, 11. L. onderwijzer, predikheerenstraat, II 432.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Enderlé, 11. L. onderwijzer, predikheerenstraat, II 432.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_14" custom="readingOrder {index:15;}">
+            <Coords points="254,727 1147,727 1147,775 254,775"/>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="255,728 1146,728 1146,774 255,774"/>
+                <Baseline points="256,756 337,761 390,758 437,759 521,766 669,763 1019,772 1062,765 1146,766"/>
+                <Word id="w_w2aab1b5b2c27b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="256,728 337,728 337,761 256,761"/>
+                    <TextEquiv>
+                        <Unicode>Ei;(II,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c27b1ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="361,730 390,730 390,758 361,758"/>
+                    <TextEquiv>
+                        <Unicode>P.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c27b1ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="411,732 437,732 437,759 411,759"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c27b1ac29" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="460,740 521,740 521,766 460,766"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c27b1ac39" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="542,736 669,736 669,763 542,763"/>
+                    <TextEquiv>
+                        <Unicode>schilder,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c27b1ac59" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="691,737 1019,737 1019,772 691,772"/>
+                    <TextEquiv>
+                        <Unicode>loefbergmakerslraal,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c27b1ad101" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1042,739 1062,739 1062,765 1042,765"/>
+                    <TextEquiv>
+                        <Unicode>II</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c27b1ad107" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="1087,740 1146,740 1146,767 1087,767"/>
+                    <TextEquiv>
+                        <Unicode>17G.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Ei;(II, P. J. van, schilder, loefbergmakerslraal, II 17G.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ei;(II, P. J. van, schilder, loefbergmakerslraal, II 17G.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_15" custom="readingOrder {index:16;}">
+            <Coords points="257,764 1321,764 1321,846 257,846"/>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="258,765 1320,765 1320,814 258,814"/>
+                <Baseline points="258,793 408,795 488,796 712,806 764,801 825,802 889,802 940,803 1150,804 1199,804 1320,800"/>
+                <Word id="w_w2aab1b5b2c29b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="258,765 408,765 408,800 258,800"/>
+                    <TextEquiv>
+                        <Unicode>Engelbert</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b1ac21" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="438,776 488,776 488,796 438,796"/>
+                    <TextEquiv>
+                        <Unicode>van</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b1ac29" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="517,770 712,770 712,806 517,806"/>
+                    <TextEquiv>
+                        <Unicode>Bevervoorde,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b1ac55" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="737,773 764,773 764,802 737,802"/>
+                    <TextEquiv>
+                        <Unicode>F.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b1ac61" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="793,774 825,774 825,810 793,810"/>
+                    <TextEquiv>
+                        <Unicode>Q.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b1ac67" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="857,775 889,775 889,802 857,802"/>
+                    <TextEquiv>
+                        <Unicode>G.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b1ac73" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="917,784 940,784 940,803 917,803"/>
+                    <TextEquiv>
+                        <Unicode>v.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b1ac79" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="962,777 1150,777 1150,812 962,812"/>
+                    <TextEquiv>
+                        <Unicode>wijkmeester</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b1ad103" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="1168,785 1199,785 1199,804 1168,804"/>
+                    <TextEquiv>
+                        <Unicode>en</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b1ad109" language="English" custom="readingOrder {index:9;}">
+                    <Coords points="1225,780 1320,780 1320,807 1225,807"/>
+                    <TextEquiv>
+                        <Unicode>haven¬</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Engelbert van Bevervoorde, F. Q. G. v. wijkmeester en haven¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="299,807 766,807 766,845 299,845"/>
+                <Baseline points="299,830 423,832 635,841 684,837 766,837"/>
+                <Word id="w_w2aab1b5b2c29b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="299,809 423,809 423,832 299,832"/>
+                    <TextEquiv>
+                        <Unicode>meester.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b3ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="447,809 635,809 635,844 447,844"/>
+                    <TextEquiv>
+                        <Unicode>weerdsingel,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b3ac45" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="660,810 684,810 684,837 660,837"/>
+                    <TextEquiv>
+                        <Unicode>M</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c29b3ac49" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="703,811 766,811 766,838 703,838"/>
+                    <TextEquiv>
+                        <Unicode>422.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>meester. weerdsingel, M 422.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Engelbert van Bevervoorde, F. Q. G. v. wijkmeester en haven¬
+meester. weerdsingel, M 422.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_16" custom="readingOrder {index:17;}">
+            <Coords points="258,837 1009,837 1009,886 258,886"/>
+            <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="259,838 1008,838 1008,885 259,885"/>
+                <Baseline points="259,867 409,869 479,869 712,881 792,876 846,876 934,877 1008,883"/>
+                <Word id="w_w2aab1b5b2c31b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="259,838 409,838 409,874 259,874"/>
+                    <TextEquiv>
+                        <Unicode>Engelbert</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c31b1ac21" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="428,850 479,850 479,870 428,870"/>
+                    <TextEquiv>
+                        <Unicode>van</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c31b1ac29" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="507,844 712,844 712,881 507,881"/>
+                    <TextEquiv>
+                        <Unicode>Bevervoorde,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c31b1ac55" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="732,848 792,848 792,884 732,884"/>
+                    <TextEquiv>
+                        <Unicode>mej.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c31b1ac65" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="812,847 846,847 846,876 812,876"/>
+                    <TextEquiv>
+                        <Unicode>M.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c31b1ac71" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="861,849 934,849 934,878 861,878"/>
+                    <TextEquiv>
+                        <Unicode>A.L.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c31b1ac81" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="947,857 1008,857 1008,883 947,883"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Engelbert van Bevervoorde, mej. M. A.L. van,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Engelbert van Bevervoorde, mej. M. A.L. van,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_17" custom="readingOrder {index:18;}">
+            <Coords points="254,875 1243,875 1243,960 254,960"/>
+            <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="257,876 1242,876 1242,923 257,923"/>
+                <Baseline points="258,903 435,911 481,906 534,908 666,911 790,912 862,913 937,913 1008,914 1116,922 1158,915 1241,917"/>
+                <Word id="w_w2aab1b5b2c33b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="258,876 435,876 435,913 258,913"/>
+                    <TextEquiv>
+                        <Unicode>Engelbregl,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b1ac25" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="454,880 481,880 481,906 454,906"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b1ac31" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="503,881 534,881 534,908 503,908"/>
+                    <TextEquiv>
+                        <Unicode>II.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b1ac39" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="555,883 666,883 666,911 555,911"/>
+                    <TextEquiv>
+                        <Unicode>kolonel</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b1ac55" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="687,886 790,886 790,912 687,912"/>
+                    <TextEquiv>
+                        <Unicode>komm.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b1ac67" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="811,887 862,887 862,913 811,913"/>
+                    <TextEquiv>
+                        <Unicode>7de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b1ac75" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="882,894 937,894 937,921 882,921"/>
+                    <TextEquiv>
+                        <Unicode>reg.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b1ac85" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="960,887 1008,887 1008,914 960,914"/>
+                    <TextEquiv>
+                        <Unicode>inf.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b1ac95" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="1030,891 1116,891 1116,922 1030,922"/>
+                    <TextEquiv>
+                        <Unicode>trans,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b1ad109" language="English" custom="readingOrder {index:9;}">
+                    <Coords points="1138,888 1158,888 1158,915 1138,915"/>
+                    <TextEquiv>
+                        <Unicode>F</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b1ad113" language="English" custom="readingOrder {index:10;}">
+                    <Coords points="1178,889 1241,889 1241,917 1178,917"/>
+                    <TextEquiv>
+                        <Unicode>237.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Engelbregl, J. II. kolonel komm. 7de reg. inf. trans, F 237.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="255,913 1084,913 1084,959 255,959"/>
+                <Baseline points="255,940 386,948 459,943 543,952 759,947 960,956 1002,951 1084,952"/>
+                <Word id="w_w2aab1b5b2c33b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="255,913 386,913 386,948 255,948"/>
+                    <TextEquiv>
+                        <Unicode>Engelen,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b3ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="416,916 459,916 459,943 416,943"/>
+                    <TextEquiv>
+                        <Unicode>VV.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b3ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="483,925 543,925 543,952 483,952"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b3ac37" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="568,921 759,921 759,956 568,956"/>
+                    <TextEquiv>
+                        <Unicode>visclikooper.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b3ac65" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="782,923 960,923 960,956 782,956"/>
+                    <TextEquiv>
+                        <Unicode>visebmarkt,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b3ac89" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="983,924 1002,924 1002,951 983,951"/>
+                    <TextEquiv>
+                        <Unicode>F</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c33b3ac93" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1025,925 1084,925 1084,952 1025,952"/>
+                    <TextEquiv>
+                        <Unicode>JI9.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Engelen, VV. van, visclikooper. visebmarkt, F JI9.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Engelbregl, J. II. kolonel komm. 7de reg. inf. trans, F 237.
+Engelen, VV. van, visclikooper. visebmarkt, F JI9.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_18" custom="readingOrder {index:19;}">
+            <Coords points="253,949 1142,949 1142,997 253,997"/>
+            <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="254,950 1141,950 1141,996 254,996"/>
+                <Baseline points="254,978 403,984 460,980 513,982 694,985 797,987 1012,993 1055,988 1141,988"/>
+                <Word id="w_w2aab1b5b2c35b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="254,950 403,950 403,987 254,987"/>
+                    <TextEquiv>
+                        <Unicode>Engcring,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c35b1ac21" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="427,953 460,953 460,980 427,980"/>
+                    <TextEquiv>
+                        <Unicode>M.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c35b1ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="483,954 513,954 513,982 483,982"/>
+                    <TextEquiv>
+                        <Unicode>II.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c35b1ac35" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="534,958 694,958 694,985 534,985"/>
+                    <TextEquiv>
+                        <Unicode>stukadoor,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c35b1ac57" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="716,960 797,960 797,994 716,994"/>
+                    <TextEquiv>
+                        <Unicode>lange</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c35b1ac69" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="822,960 1012,960 1012,993 822,993"/>
+                    <TextEquiv>
+                        <Unicode>nieuwslraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c35b1ac95" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1034,961 1055,961 1055,988 1034,988"/>
+                    <TextEquiv>
+                        <Unicode>A</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c35b1ac99" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="1078,963 1141,963 1141,989 1078,989"/>
+                    <TextEquiv>
+                        <Unicode>455.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Engcring, M. II. stukadoor, lange nieuwslraat, A 455.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Engcring, M. II. stukadoor, lange nieuwslraat, A 455.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_19" custom="readingOrder {index:20;}">
+            <Coords points="254,986 971,986 971,1028 254,1028"/>
+            <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="255,987 970,987 970,1027 255,1027"/>
+                <Baseline points="255,1015 404,1017 453,1016 505,1018 692,1022 870,1026 904,1023 970,1025"/>
+                <Word id="w_w2aab1b5b2c37b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="255,987 404,987 404,1017 255,1017"/>
+                    <TextEquiv>
+                        <Unicode>Eukclaar.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c37b1ac21" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="426,990 453,990 453,1016 426,1016"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c37b1ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="475,991 505,991 505,1018 475,1018"/>
+                    <TextEquiv>
+                        <Unicode>C.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c37b1ac33" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="528,994 692,994 692,1022 528,1022"/>
+                    <TextEquiv>
+                        <Unicode>kruidenier,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c37b1ac57" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="716,996 870,996 870,1026 716,1026"/>
+                    <TextEquiv>
+                        <Unicode>bildsiraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c37b1ac81" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="893,996 904,996 904,1023 893,1023"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c37b1ac85" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="925,998 970,998 970,1025 925,1025"/>
+                    <TextEquiv>
+                        <Unicode>45.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Eukclaar. J. C. kruidenier, bildsiraat, 1 45.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eukclaar. J. C. kruidenier, bildsiraat, 1 45.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_20" custom="readingOrder {index:21;}">
+            <Coords points="252,1023 1005,1023 1005,1105 252,1105"/>
+            <TextLine id="tl_25" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="254,1024 1004,1024 1004,1068 254,1068"/>
+                <Baseline points="254,1051 401,1057 453,1053 507,1055 688,1059 956,1068 1004,1062"/>
+                <Word id="w_w2aab1b5b2c39b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="254,1024 401,1024 401,1057 254,1057"/>
+                    <TextEquiv>
+                        <Unicode>E.ikelaar,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c39b1ac23" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="424,1026 453,1026 453,1054 424,1054"/>
+                    <TextEquiv>
+                        <Unicode>P.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c39b1ac29" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="478,1029 507,1029 507,1055 478,1055"/>
+                    <TextEquiv>
+                        <Unicode>II.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c39b1ac37" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="530,1031 688,1031 688,1059 530,1059"/>
+                    <TextEquiv>
+                        <Unicode>winkelier,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c39b1ac59" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="707,1033 956,1033 956,1068 707,1068"/>
+                    <TextEquiv>
+                        <Unicode>beniuurdevveerd,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c39b1ac93" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="978,1033 1004,1033 1004,1062 978,1062"/>
+                    <TextEquiv>
+                        <Unicode>M</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>E.ikelaar, P. II. winkelier, beniuurdevveerd, M</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="253,1061 907,1061 907,1104 253,1104"/>
+                <Baseline points="253,1088 368,1095 415,1089 614,1094 781,1102 824,1097 907,1097"/>
+                <Word id="w_w2aab1b5b2c39b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="253,1061 368,1061 368,1095 253,1095"/>
+                    <TextEquiv>
+                        <Unicode>Eusink,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c39b3ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="389,1064 415,1064 415,1089 389,1089"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c39b3ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="437,1066 614,1066 614,1094 437,1094"/>
+                    <TextEquiv>
+                        <Unicode>boekbinder,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c39b3ac47" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="635,1069 781,1069 781,1103 635,1103"/>
+                    <TextEquiv>
+                        <Unicode>domplein,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c39b3ac67" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="806,1070 824,1070 824,1097 806,1097"/>
+                    <TextEquiv>
+                        <Unicode>F</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c39b3ac71" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="845,1070 907,1070 907,1098 845,1098"/>
+                    <TextEquiv>
+                        <Unicode>297.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Eusink, J. boekbinder, domplein, F 297.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E.ikelaar, P. II. winkelier, beniuurdevveerd, M
+Eusink, J. boekbinder, domplein, F 297.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_21" custom="readingOrder {index:22;}">
+            <Coords points="253,1097 1114,1097 1114,1145 253,1145"/>
+            <TextLine id="tl_27" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="254,1098 1113,1098 1113,1144 254,1144"/>
+                <Baseline points="254,1125 369,1133 455,1128 507,1130 555,1130 820,1133 988,1139 1029,1135 1113,1135"/>
+                <Word id="w_w2aab1b5b2c41b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="254,1098 369,1098 369,1133 254,1133"/>
+                    <TextEquiv>
+                        <Unicode>Ensiiik,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c41b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="393,1102 455,1102 455,1136 393,1136"/>
+                    <TextEquiv>
+                        <Unicode>mej.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c41b1ac29" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="479,1103 507,1103 507,1130 479,1130"/>
+                    <TextEquiv>
+                        <Unicode>il.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c41b1ac37" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="531,1105 555,1105 555,1130 531,1130"/>
+                    <TextEquiv>
+                        <Unicode>iu</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c41b1ac43" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="578,1105 820,1105 820,1140 578,1140"/>
+                    <TextEquiv>
+                        <Unicode>kindergoederen,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c41b1ac75" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="843,1108 988,1108 988,1143 843,1143"/>
+                    <TextEquiv>
+                        <Unicode>domplein,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c41b1ac95" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1010,1108 1029,1108 1029,1135 1010,1135"/>
+                    <TextEquiv>
+                        <Unicode>F</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c41b1ac99" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="1050,1108 1113,1108 1113,1136 1050,1136"/>
+                    <TextEquiv>
+                        <Unicode>297.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Ensiiik, mej. il. iu kindergoederen, domplein, F 297.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ensiiik, mej. il. iu kindergoederen, domplein, F 297.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_22" custom="readingOrder {index:23;}">
+            <Coords points="255,1134 1144,1134 1144,1180 255,1180"/>
+            <TextLine id="tl_28" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="256,1135 1143,1135 1143,1179 256,1179"/>
+                <Baseline points="256,1162 401,1170 447,1164 619,1167 722,1170 1056,1178 1098,1173 1143,1172"/>
+                <Word id="w_w2aab1b5b2c43b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="256,1135 401,1135 401,1170 256,1170"/>
+                    <TextEquiv>
+                        <Unicode>Enschedé,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c43b1ac21" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="422,1139 447,1139 447,1164 422,1164"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c43b1ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="471,1139 619,1139 619,1174 471,1174"/>
+                    <TextEquiv>
+                        <Unicode>ingenieur,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c43b1ac49" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="642,1143 722,1143 722,1170 642,1170"/>
+                    <TextEquiv>
+                        <Unicode>korte</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c43b1ac61" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="739,1144 1056,1144 1056,1178 739,1178"/>
+                    <TextEquiv>
+                        <Unicode>minderbroederstraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c43b1ad103" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="1080,1145 1098,1145 1098,1173 1080,1173"/>
+                    <TextEquiv>
+                        <Unicode>F</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c43b1ad107" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1117,1146 1143,1146 1143,1172 1117,1172"/>
+                    <TextEquiv>
+                        <Unicode>9.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Enschedé, J. ingenieur, korte minderbroederstraat, F 9.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Enschedé, J. ingenieur, korte minderbroederstraat, F 9.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_23" custom="readingOrder {index:24;}">
+            <Coords points="253,1170 873,1170 873,1215 253,1215"/>
+            <TextLine id="tl_29" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="254,1171 872,1171 872,1214 254,1214"/>
+                <Baseline points="254,1199 343,1204 395,1201 446,1201 546,1204 745,1207 790,1206 871,1207"/>
+                <Word id="w_w2aab1b5b2c45b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="254,1171 343,1171 343,1204 254,1204"/>
+                    <TextEquiv>
+                        <Unicode>Fusie,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c45b1ac15" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="365,1174 395,1174 395,1201 365,1201"/>
+                    <TextEquiv>
+                        <Unicode>C.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c45b1ac21" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="416,1175 446,1175 446,1201 416,1201"/>
+                    <TextEquiv>
+                        <Unicode>13.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c45b1ac29" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="467,1178 546,1178 546,1204 467,1204"/>
+                    <TextEquiv>
+                        <Unicode>smid.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c45b1ac41" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="567,1178 745,1178 745,1213 567,1213"/>
+                    <TextEquiv>
+                        <Unicode>oudegraclil.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c45b1ac67" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="767,1180 790,1180 790,1206 767,1206"/>
+                    <TextEquiv>
+                        <Unicode>B</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c45b1ac71" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="811,1181 871,1181 871,1207 811,1207"/>
+                    <TextEquiv>
+                        <Unicode>101.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Fusie, C. 13. smid. oudegraclil. B 101.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fusie, C. 13. smid. oudegraclil. B 101.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_24" custom="readingOrder {index:25;}">
+            <Coords points="251,1208 1315,1208 1315,1276 251,1276"/>
+            <TextLine id="tl_30" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="252,1209 1314,1209 1314,1254 252,1254"/>
+                <Baseline points="252,1236 367,1242 415,1237 469,1240 647,1243 720,1243 844,1244 960,1245 1011,1245 1114,1246 1158,1245 1314,1254"/>
+                <Word id="w_w2aab1b5b2c47b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="252,1209 367,1209 367,1244 252,1244"/>
+                    <TextEquiv>
+                        <Unicode>Enlrop,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b1ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="389,1216 415,1216 415,1237 389,1237"/>
+                    <TextEquiv>
+                        <Unicode>j.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b1ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="439,1212 469,1212 469,1240 439,1240"/>
+                    <TextEquiv>
+                        <Unicode>11.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b1ac31" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="493,1214 647,1214 647,1249 493,1249"/>
+                    <TextEquiv>
+                        <Unicode>inspecteur</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b1ac53" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="669,1224 720,1224 720,1244 669,1244"/>
+                    <TextEquiv>
+                        <Unicode>van</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b1ac61" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="743,1218 844,1218 844,1250 743,1250"/>
+                    <TextEquiv>
+                        <Unicode>politie,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b1ac79" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="866,1218 960,1218 960,1245 866,1245"/>
+                    <TextEquiv>
+                        <Unicode>achter</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b1ac93" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="980,1219 1011,1219 1011,1245 980,1245"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b1ac99" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="1027,1219 1114,1219 1114,1247 1027,1247"/>
+                    <TextEquiv>
+                        <Unicode>molen</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b1ad111" language="English" custom="readingOrder {index:9;}">
+                    <Coords points="1127,1220 1158,1220 1158,1246 1127,1246"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b1ad117" language="English" custom="readingOrder {index:10;}">
+                    <Coords points="1170,1218 1314,1218 1314,1254 1170,1254"/>
+                    <TextEquiv>
+                        <Unicode>Meiboom,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Enlrop, j. 11. inspecteur van politie, achter de molen de Meiboom,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="291,1246 392,1246 392,1275 291,1275"/>
+                <Baseline points="291,1272 309,1272 392,1275"/>
+                <Word id="w_w2aab1b5b2c47b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="291,1246 309,1246 309,1272 291,1272"/>
+                    <TextEquiv>
+                        <Unicode>G</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c47b3ab5" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="330,1247 392,1247 392,1275 330,1275"/>
+                    <TextEquiv>
+                        <Unicode>978.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>G 978.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Enlrop, j. 11. inspecteur van politie, achter de molen de Meiboom,
+G 978.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_25" custom="readingOrder {index:26;}">
+            <Coords points="247,1281 1219,1281 1219,1364 247,1364"/>
+            <TextLine id="tl_32" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="249,1282 1218,1282 1218,1327 249,1327"/>
+                <Baseline points="249,1310 328,1316 398,1311 679,1317 783,1318 1111,1326 1153,1319 1218,1320"/>
+                <Word id="w_w2aab1b5b2c49b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="249,1282 328,1282 328,1316 249,1316"/>
+                    <TextEquiv>
+                        <Unicode>Ente,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b1ac13" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="354,1284 398,1284 398,1311 354,1311"/>
+                    <TextEquiv>
+                        <Unicode>W.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b1ac19" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="422,1286 679,1286 679,1322 422,1322"/>
+                    <TextEquiv>
+                        <Unicode>kofïijhuishouder.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b1ac55" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="702,1291 783,1291 783,1318 702,1318"/>
+                    <TextEquiv>
+                        <Unicode>korte</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b1ac67" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="806,1291 1111,1291 1111,1326 806,1326"/>
+                    <TextEquiv>
+                        <Unicode>minnebroederslraal,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b1ad107" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="1137,1292 1153,1292 1153,1319 1137,1319"/>
+                    <TextEquiv>
+                        <Unicode>F</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b1ad111" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1180,1293 1218,1293 1218,1320 1180,1320"/>
+                    <TextEquiv>
+                        <Unicode>13.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Ente, W. kofïijhuishouder. korte minnebroederslraal, F 13.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="248,1319 1046,1319 1046,1363 248,1363"/>
+                <Baseline points="248,1346 369,1353 422,1348 475,1349 709,1353 921,1355 963,1355 1045,1355"/>
+                <Word id="w_w2aab1b5b2c49b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="248,1319 369,1319 369,1353 248,1353"/>
+                    <TextEquiv>
+                        <Unicode>Fuiken,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b3ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="393,1322 422,1322 422,1348 393,1348"/>
+                    <TextEquiv>
+                        <Unicode>li.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b3ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="445,1322 475,1322 475,1349 445,1349"/>
+                    <TextEquiv>
+                        <Unicode>il.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b3ac33" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="497,1326 709,1326 709,1354 497,1354"/>
+                    <TextEquiv>
+                        <Unicode>meubelmaker,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b3ac59" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="731,1331 921,1331 921,1362 731,1362"/>
+                    <TextEquiv>
+                        <Unicode>voeliussteeg.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b3ac87" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="943,1328 963,1328 963,1355 943,1355"/>
+                    <TextEquiv>
+                        <Unicode>F</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c49b3ac91" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="982,1329 1045,1329 1045,1355 982,1355"/>
+                    <TextEquiv>
+                        <Unicode>312.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Fuiken, li. il. meubelmaker, voeliussteeg. F 312.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ente, W. kofïijhuishouder. korte minnebroederslraal, F 13.
+Fuiken, li. il. meubelmaker, voeliussteeg. F 312.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_26" custom="readingOrder {index:27;}">
+            <Coords points="247,1355 910,1355 910,1399 247,1399"/>
+            <TextLine id="tl_34" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="248,1356 909,1356 909,1398 248,1398"/>
+                <Baseline points="248,1383 364,1391 412,1385 500,1393 601,1389 781,1391 825,1391 909,1391"/>
+                <Word id="w_w2aab1b5b2c51b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="248,1356 364,1356 364,1393 248,1393"/>
+                    <TextEquiv>
+                        <Unicode>Enlrop,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c51b1ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="385,1359 412,1359 412,1385 385,1385"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c51b1ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="432,1360 500,1360 500,1393 432,1393"/>
+                    <TextEquiv>
+                        <Unicode>kok,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c51b1ac33" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="523,1361 601,1361 601,1396 523,1396"/>
+                    <TextEquiv>
+                        <Unicode>lange</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c51b1ac45" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="624,1364 781,1364 781,1396 624,1396"/>
+                    <TextEquiv>
+                        <Unicode>jansstraal.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c51b1ac69" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="804,1365 825,1365 825,1391 804,1391"/>
+                    <TextEquiv>
+                        <Unicode>G</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c51b1ac73" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="851,1364 909,1364 909,1391 851,1391"/>
+                    <TextEquiv>
+                        <Unicode>19G.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Enlrop, J. kok, lange jansstraal. G 19G.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Enlrop, J. kok, lange jansstraal. G 19G.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_27" custom="readingOrder {index:28;}">
+            <Coords points="248,1391 887,1391 887,1437 248,1437"/>
+            <TextLine id="tl_35" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="249,1392 886,1392 886,1436 249,1436"/>
+                <Baseline points="249,1419 399,1428 453,1422 588,1425 758,1432 803,1426 886,1428"/>
+                <Word id="w_w2aab1b5b2c53b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="249,1392 399,1392 399,1429 249,1429"/>
+                    <TextEquiv>
+                        <Unicode>Epskamp,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c53b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="423,1396 453,1396 453,1422 423,1422"/>
+                    <TextEquiv>
+                        <Unicode>11.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c53b1ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="475,1398 588,1398 588,1432 475,1432"/>
+                    <TextEquiv>
+                        <Unicode>kapper,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c53b1ac43" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="610,1404 758,1404 758,1435 610,1435"/>
+                    <TextEquiv>
+                        <Unicode>steenweg,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c53b1ac63" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="784,1401 803,1401 803,1427 784,1427"/>
+                    <TextEquiv>
+                        <Unicode>1)</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c53b1ac69" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="823,1402 886,1402 886,1429 823,1429"/>
+                    <TextEquiv>
+                        <Unicode>470.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Epskamp, 11. kapper, steenweg, 1) 470.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Epskamp, 11. kapper, steenweg, 1) 470.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_28" custom="readingOrder {index:29;}">
+            <Coords points="247,1428 955,1428 955,1474 247,1474"/>
+            <TextLine id="tl_36" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="248,1429 954,1429 954,1473 248,1473"/>
+                <Baseline points="248,1457 399,1465 450,1459 657,1464 829,1467 870,1464 954,1466"/>
+                <Word id="w_w2aab1b5b2c55b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="248,1429 399,1429 399,1467 248,1467"/>
+                    <TextEquiv>
+                        <Unicode>Epskamp,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c55b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="422,1434 450,1434 450,1459 422,1459"/>
+                    <TextEquiv>
+                        <Unicode>13.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c55b1ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="475,1434 657,1434 657,1464 475,1464"/>
+                    <TextEquiv>
+                        <Unicode>timmerman,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c55b1ac49" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="679,1442 829,1442 829,1472 679,1472"/>
+                    <TextEquiv>
+                        <Unicode>steenweg,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c55b1ac69" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="851,1438 870,1438 870,1464 851,1464"/>
+                    <TextEquiv>
+                        <Unicode>1)</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c55b1ac75" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="891,1439 954,1439 954,1466 891,1466"/>
+                    <TextEquiv>
+                        <Unicode>470.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Epskamp, 13. timmerman, steenweg, 1) 470.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Epskamp, 13. timmerman, steenweg, 1) 470.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_29" custom="readingOrder {index:30;}">
+            <Coords points="247,1465 1093,1465 1093,1513 247,1513"/>
+            <TextLine id="tl_37" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="248,1466 1092,1466 1092,1512 248,1512"/>
+                <Baseline points="248,1494 379,1502 449,1496 725,1500 963,1507 1010,1501 1091,1504"/>
+                <Word id="w_w2aab1b5b2c57b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="248,1466 379,1466 379,1502 248,1502"/>
+                    <TextEquiv>
+                        <Unicode>Ennann,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c57b1ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="403,1469 449,1469 449,1496 403,1496"/>
+                    <TextEquiv>
+                        <Unicode>Pb.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c57b1ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="471,1471 725,1471 725,1509 471,1509"/>
+                    <TextEquiv>
+                        <Unicode>huisonderwijzer,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c57b1ac59" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="748,1475 963,1475 963,1508 748,1508"/>
+                    <TextEquiv>
+                        <Unicode>nieiiwegrachl,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c57b1ac89" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="985,1476 1010,1476 1010,1501 985,1501"/>
+                    <TextEquiv>
+                        <Unicode>A</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c57b1ac93" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="1029,1475 1091,1475 1091,1504 1029,1504"/>
+                    <TextEquiv>
+                        <Unicode>825.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Ennann, Pb. huisonderwijzer, nieiiwegrachl, A 825.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ennann, Pb. huisonderwijzer, nieiiwegrachl, A 825.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_30" custom="readingOrder {index:31;}">
+            <Coords points="246,1502 964,1502 964,1548 246,1548"/>
+            <TextLine id="tl_38" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="247,1503 963,1503 963,1547 247,1547"/>
+                <Baseline points="247,1531 292,1537 340,1532 424,1539 653,1538 837,1543 880,1538 963,1539"/>
+                <Word id="w_w2aab1b5b2c59b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="247,1503 292,1503 292,1537 247,1537"/>
+                    <TextEquiv>
+                        <Unicode>Es,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c59b1ab9" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="314,1504 340,1504 340,1532 314,1532"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c59b1ac15" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="363,1515 424,1515 424,1539 363,1539"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c59b1ac25" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="446,1508 653,1508 653,1538 446,1538"/>
+                    <TextEquiv>
+                        <Unicode>schoenmaker,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c59b1ac51" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="674,1515 837,1515 837,1546 674,1546"/>
+                    <TextEquiv>
+                        <Unicode>stroosteeg,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c59b1ac75" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="863,1512 880,1512 880,1538 863,1538"/>
+                    <TextEquiv>
+                        <Unicode>E</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c59b1ac79" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="906,1513 963,1513 963,1540 906,1540"/>
+                    <TextEquiv>
+                        <Unicode>187.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Es, J. van, schoenmaker, stroosteeg, E 187.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es, J. van, schoenmaker, stroosteeg, E 187.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_31" custom="readingOrder {index:32;}">
+            <Coords points="244,1539 957,1539 957,1582 244,1582"/>
+            <TextLine id="tl_39" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="245,1540 956,1540 956,1581 245,1581"/>
+                <Baseline points="245,1567 289,1573 383,1570 435,1570 519,1577 575,1565 828,1580 872,1575 956,1576"/>
+                <Word id="w_w2aab1b5b2c61b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="245,1540 289,1540 289,1573 245,1573"/>
+                    <TextEquiv>
+                        <Unicode>Es,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c61b1ab9" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="313,1544 383,1544 383,1570 313,1570"/>
+                    <TextEquiv>
+                        <Unicode>wed.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c61b1ac19" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="406,1544 435,1544 435,1570 406,1570"/>
+                    <TextEquiv>
+                        <Unicode>E.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c61b1ac25" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="458,1552 519,1552 519,1577 458,1577"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c61b1ac35" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="542,1561 575,1561 575,1565 542,1565"/>
+                    <TextEquiv>
+                        <Unicode>—</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c61b1ac39" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="596,1547 828,1547 828,1580 596,1580"/>
+                    <TextEquiv>
+                        <Unicode>elisabclhstraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c61b1ac73" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="850,1548 872,1548 872,1575 850,1575"/>
+                    <TextEquiv>
+                        <Unicode>D</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c61b1ac77" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="893,1549 956,1549 956,1577 893,1577"/>
+                    <TextEquiv>
+                        <Unicode>225.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Es, wed. E. van, — elisabclhstraat, D 225.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es, wed. E. van, — elisabclhstraat, D 225.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_32" custom="readingOrder {index:33;}">
+            <Coords points="245,1576 960,1576 960,1620 245,1620"/>
+            <TextLine id="tl_40" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="246,1577 959,1577 959,1619 246,1619"/>
+                <Baseline points="246,1604 289,1610 344,1605 427,1613 518,1610 620,1610 834,1618 875,1612 959,1613"/>
+                <Word id="w_w2aab1b5b2c63b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="246,1577 289,1577 289,1610 246,1610"/>
+                    <TextEquiv>
+                        <Unicode>Es,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c63b1ab9" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="312,1580 344,1580 344,1605 312,1605"/>
+                    <TextEquiv>
+                        <Unicode>A.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c63b1ac15" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="367,1588 427,1588 427,1613 367,1613"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c63b1ac25" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="451,1582 518,1582 518,1610 451,1610"/>
+                    <TextEquiv>
+                        <Unicode>kok.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c63b1ac35" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="540,1584 620,1584 620,1610 540,1610"/>
+                    <TextEquiv>
+                        <Unicode>korte</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c63b1ac47" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="641,1585 834,1585 834,1618 641,1618"/>
+                    <TextEquiv>
+                        <Unicode>nieuwslraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c63b1ac73" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="856,1584 875,1584 875,1612 856,1612"/>
+                    <TextEquiv>
+                        <Unicode>F</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c63b1ac77" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="896,1585 959,1585 959,1614 896,1614"/>
+                    <TextEquiv>
+                        <Unicode>205.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Es, A. van, kok. korte nieuwslraat, F 205.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es, A. van, kok. korte nieuwslraat, F 205.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_33" custom="readingOrder {index:34;}">
+            <Coords points="241,1612 956,1612 956,1659 241,1659"/>
+            <TextLine id="tl_41" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="242,1613 955,1613 955,1658 242,1658"/>
+                <Baseline points="242,1641 287,1647 340,1642 425,1649 633,1648 829,1654 870,1648 954,1650"/>
+                <Word id="w_w2aab1b5b2c65b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="242,1613 287,1613 287,1647 242,1647"/>
+                    <TextEquiv>
+                        <Unicode>Es,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c65b1ab9" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="312,1615 340,1615 340,1642 312,1642"/>
+                    <TextEquiv>
+                        <Unicode>D.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c65b1ac15" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="365,1625 425,1625 425,1649 365,1649"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c65b1ac25" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="448,1619 633,1619 633,1648 448,1648"/>
+                    <TextEquiv>
+                        <Unicode>timmerman,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c65b1ac47" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="653,1626 829,1626 829,1657 653,1657"/>
+                    <TextEquiv>
+                        <Unicode>servelslceg,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c65b1ac73" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="853,1621 870,1621 870,1648 853,1648"/>
+                    <TextEquiv>
+                        <Unicode>F</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c65b1ac77" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="892,1623 954,1623 954,1650 892,1650"/>
+                    <TextEquiv>
+                        <Unicode>287.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Es, D. van, timmerman, servelslceg, F 287.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es, D. van, timmerman, servelslceg, F 287.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_34" custom="readingOrder {index:35;}">
+            <Coords points="239,1650 959,1650 959,1695 239,1695"/>
+            <TextLine id="tl_42" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="240,1651 958,1651 958,1694 240,1694"/>
+                <Baseline points="240,1678 321,1685 375,1680 461,1683 633,1687 833,1689 877,1685 958,1686"/>
+                <Word id="w_w2aab1b5b2c67b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="240,1651 321,1651 321,1685 240,1685"/>
+                    <TextEquiv>
+                        <Unicode>Esih,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c67b1ac13" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="347,1653 375,1653 375,1680 347,1680"/>
+                    <TextEquiv>
+                        <Unicode>II.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c67b1ac21" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="399,1662 461,1662 461,1683 399,1683"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c67b1ac31" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="485,1657 633,1657 633,1691 485,1691"/>
+                    <TextEquiv>
+                        <Unicode>koopman,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c67b1ac49" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="654,1660 833,1660 833,1689 654,1689"/>
+                    <TextEquiv>
+                        <Unicode>tvveieslraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c67b1ac77" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="855,1659 877,1659 877,1685 855,1685"/>
+                    <TextEquiv>
+                        <Unicode>B</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c67b1ac81" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="897,1660 958,1660 958,1687 897,1687"/>
+                    <TextEquiv>
+                        <Unicode>21G.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Esih, II. van, koopman, tvveieslraat, B 21G.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Esih, II. van, koopman, tvveieslraat, B 21G.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_35" custom="readingOrder {index:36;}">
+            <Coords points="238,1686 920,1686 920,1730 238,1730"/>
+            <TextLine id="tl_43" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="239,1687 919,1687 919,1729 239,1729"/>
+                <Baseline points="239,1715 336,1722 390,1717 539,1720 790,1729 836,1723 919,1722"/>
+                <Word id="w_w2aab1b5b2c69b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="239,1687 336,1687 336,1722 239,1722"/>
+                    <TextEquiv>
+                        <Unicode>Eskes,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c69b1ac15" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="360,1691 390,1691 390,1717 360,1717"/>
+                    <TextEquiv>
+                        <Unicode>11.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c69b1ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="413,1692 539,1692 539,1720 413,1720"/>
+                    <TextEquiv>
+                        <Unicode>schilder,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c69b1ac43" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="559,1695 790,1695 790,1729 559,1729"/>
+                    <TextEquiv>
+                        <Unicode>elisahethslraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c69b1ac77" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="815,1695 836,1695 836,1723 815,1723"/>
+                    <TextEquiv>
+                        <Unicode>D</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c69b1ac81" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="856,1696 919,1696 919,1723 856,1723"/>
+                    <TextEquiv>
+                        <Unicode>2G2.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Eskes, 11. schilder, elisahethslraat, D 2G2.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eskes, 11. schilder, elisahethslraat, D 2G2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_36" custom="readingOrder {index:37;}">
+            <Coords points="239,1724 840,1724 840,1766 239,1766"/>
+            <TextLine id="tl_44" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="240,1725 839,1725 839,1765 240,1765"/>
+                <Baseline points="240,1752 336,1757 389,1754 445,1747 716,1764 774,1758 839,1759"/>
+                <Word id="w_w2aab1b5b2c71b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="240,1725 336,1725 336,1757 240,1757"/>
+                    <TextEquiv>
+                        <Unicode>Eskes,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c71b1ac15" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="359,1727 389,1727 389,1755 359,1755"/>
+                    <TextEquiv>
+                        <Unicode>E.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c71b1ac21" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="410,1744 445,1744 445,1747 410,1747"/>
+                    <TextEquiv>
+                        <Unicode>—</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c71b1ac25" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="468,1730 716,1730 716,1764 468,1764"/>
+                    <TextEquiv>
+                        <Unicode>bemnurdeweerd,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c71b1ac55" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="740,1731 774,1731 774,1759 740,1759"/>
+                    <TextEquiv>
+                        <Unicode>M.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c71b1ac61" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="796,1733 839,1733 839,1760 796,1760"/>
+                    <TextEquiv>
+                        <Unicode>73.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Eskes, E. — bemnurdeweerd, M. 73.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eskes, E. — bemnurdeweerd, M. 73.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_37" custom="readingOrder {index:38;}">
+            <Coords points="238,1760 888,1760 888,1803 238,1803"/>
+            <TextLine id="tl_45" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="239,1761 887,1761 887,1802 239,1802"/>
+                <Baseline points="239,1789 359,1798 407,1791 660,1797 777,1802 822,1796 887,1796"/>
+                <Word id="w_w2aab1b5b2c73b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="239,1761 359,1761 359,1798 239,1798"/>
+                    <TextEquiv>
+                        <Unicode>Esnorff,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c73b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="381,1765 407,1765 407,1791 381,1791"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c73b1ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="430,1766 660,1766 660,1797 430,1797"/>
+                    <TextEquiv>
+                        <Unicode>boekhandelaar,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c73b1ac55" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="682,1769 777,1769 777,1802 682,1802"/>
+                    <TextEquiv>
+                        <Unicode>neude,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c73b1ac69" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="799,1770 822,1770 822,1796 799,1796"/>
+                    <TextEquiv>
+                        <Unicode>G</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c73b1ac73" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="844,1770 887,1770 887,1797 844,1797"/>
+                    <TextEquiv>
+                        <Unicode>78'.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Esnorff, J. boekhandelaar, neude, G 78'.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Esnorff, J. boekhandelaar, neude, G 78'.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_38" custom="readingOrder {index:39;}">
+            <Coords points="241,1798 1116,1798 1116,1843 241,1843"/>
+            <TextLine id="tl_46" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="242,1799 1115,1799 1115,1842 242,1842"/>
+                <Baseline points="242,1826 337,1833 422,1828 477,1829 529,1831 784,1833 990,1838 1033,1833 1115,1834"/>
+                <Word id="w_w2aab1b5b2c75b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="242,1799 337,1799 337,1833 242,1833"/>
+                    <TextEquiv>
+                        <Unicode>Esink,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c75b1ac15" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="360,1802 422,1802 422,1837 360,1837"/>
+                    <TextEquiv>
+                        <Unicode>mej.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c75b1ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="444,1803 477,1803 477,1829 444,1829"/>
+                    <TextEquiv>
+                        <Unicode>A.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c75b1ac31" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="500,1803 529,1803 529,1831 500,1831"/>
+                    <TextEquiv>
+                        <Unicode>C.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c75b1ac37" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="551,1805 784,1805 784,1834 551,1834"/>
+                    <TextEquiv>
+                        <Unicode>wollennaaister,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c75b1ac69" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="805,1806 990,1806 990,1840 805,1840"/>
+                    <TextEquiv>
+                        <Unicode>mariaplaats,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c75b1ac95" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1014,1806 1033,1806 1033,1833 1014,1833"/>
+                    <TextEquiv>
+                        <Unicode>E</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c75b1ac99" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="1053,1806 1115,1806 1115,1835 1053,1835"/>
+                    <TextEquiv>
+                        <Unicode>440.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Esink, mej. A. C. wollennaaister, mariaplaats, E 440.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Esink, mej. A. C. wollennaaister, mariaplaats, E 440.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_39" custom="readingOrder {index:40;}">
+            <Coords points="239,1834 1015,1834 1015,1878 239,1878"/>
+            <TextLine id="tl_47" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="240,1835 1014,1835 1014,1877 240,1877"/>
+                <Baseline points="240,1863 430,1871 485,1867 672,1870 739,1869 889,1876 932,1870 1014,1870"/>
+                <Word id="w_w2aab1b5b2c77b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="240,1835 430,1835 430,1871 240,1871"/>
+                    <TextEquiv>
+                        <Unicode>Esperheuvel,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c77b1ac27" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="453,1840 485,1840 485,1867 453,1867"/>
+                    <TextEquiv>
+                        <Unicode>G.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c77b1ac33" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="506,1842 672,1842 672,1870 506,1870"/>
+                    <TextEquiv>
+                        <Unicode>stalhouder,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c77b1ac57" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="695,1843 739,1843 739,1869 695,1869"/>
+                    <TextEquiv>
+                        <Unicode>kal</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c77b1ac65" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="745,1848 889,1848 889,1876 745,1876"/>
+                    <TextEquiv>
+                        <Unicode>verstraal,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c77b1ac87" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="913,1842 932,1842 932,1870 913,1870"/>
+                    <TextEquiv>
+                        <Unicode>II</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c77b1ac93" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="952,1843 1014,1843 1014,1870 952,1870"/>
+                    <TextEquiv>
+                        <Unicode>395.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Esperheuvel, G. stalhouder, kal verstraal, II 395.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Esperheuvel, G. stalhouder, kal verstraal, II 395.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_40" custom="readingOrder {index:41;}">
+            <Coords points="238,1872 1301,1872 1301,1953 238,1953"/>
+            <TextLine id="tl_48" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="239,1873 1300,1873 1300,1916 239,1916"/>
+                <Baseline points="240,1901 377,1909 425,1903 479,1904 634,1906 779,1906 825,1907 1033,1907 1189,1913 1222,1908 1300,1908"/>
+                <Word id="w_w2aab1b5b2c79b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="240,1873 377,1873 377,1909 240,1909"/>
+                    <TextEquiv>
+                        <Unicode>Esselink,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b1ac21" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="400,1876 425,1876 425,1903 400,1903"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b1ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="449,1877 479,1877 479,1904 449,1904"/>
+                    <TextEquiv>
+                        <Unicode>11.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b1ac35" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="501,1879 634,1879 634,1906 501,1906"/>
+                    <TextEquiv>
+                        <Unicode>kastelein</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b1ac55" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="656,1879 779,1879 779,1907 656,1907"/>
+                    <TextEquiv>
+                        <Unicode>sociëteit</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b1ac75" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="791,1881 825,1881 825,1907 791,1907"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b1ac81" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="836,1879 1033,1879 1033,1914 836,1914"/>
+                    <TextEquiv>
+                        <Unicode>Vriendschap,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b1ad107" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="1044,1881 1189,1881 1189,1913 1044,1913"/>
+                    <TextEquiv>
+                        <Unicode>keislraat,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b1ad129" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="1201,1881 1222,1881 1222,1908 1201,1908"/>
+                    <TextEquiv>
+                        <Unicode>G</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b1ad133" language="English" custom="readingOrder {index:9;}">
+                    <Coords points="1236,1882 1300,1882 1300,1908 1236,1908"/>
+                    <TextEquiv>
+                        <Unicode>332.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Esselink, J. 11. kastelein sociëteit de Vriendschap, keislraat, G 332.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextLine id="tl_49" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="241,1911 1032,1911 1032,1952 241,1952"/>
+                <Baseline points="241,1938 322,1938 402,1946 456,1940 540,1944 791,1944 907,1948 949,1943 1032,1943"/>
+                <Word id="w_w2aab1b5b2c79b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="241,1911 322,1911 322,1938 241,1938"/>
+                    <TextEquiv>
+                        <Unicode>Essen</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b3ac13" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="328,1913 402,1913 402,1947 328,1947"/>
+                    <TextEquiv>
+                        <Unicode>berg,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b3ac25" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="424,1913 456,1913 456,1940 424,1940"/>
+                    <TextEquiv>
+                        <Unicode>B.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b3ac31" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="480,1921 540,1921 540,1944 480,1944"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b3ac41" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="562,1916 791,1916 791,1944 562,1944"/>
+                    <TextEquiv>
+                        <Unicode>hloemkweekcr.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b3ac69" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="812,1917 907,1917 907,1951 812,1951"/>
+                    <TextEquiv>
+                        <Unicode>singel,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b3ac85" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="930,1917 949,1917 949,1943 930,1943"/>
+                    <TextEquiv>
+                        <Unicode>L</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c79b3ac89" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="972,1917 1032,1917 1032,1943 972,1943"/>
+                    <TextEquiv>
+                        <Unicode>17G.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Essen berg, B. van, hloemkweekcr. singel, L 17G.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Esselink, J. 11. kastelein sociëteit de Vriendschap, keislraat, G 332.
+Essen berg, B. van, hloemkweekcr. singel, L 17G.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_41" custom="readingOrder {index:42;}">
+            <Coords points="239,1946 1206,1946 1206,1992 239,1992"/>
+            <TextLine id="tl_50" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="240,1947 1205,1947 1205,1991 240,1991"/>
+                <Baseline points="240,1975 400,1983 452,1977 498,1979 801,1981 902,1980 1079,1986 1123,1979 1205,1981"/>
+                <Word id="w_w2aab1b5b2c81b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="240,1948 400,1948 400,1984 240,1984"/>
+                    <TextEquiv>
+                        <Unicode>Esscnberg,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c81b1ac23" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="422,1950 452,1950 452,1977 422,1977"/>
+                    <TextEquiv>
+                        <Unicode>E.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c81b1ac29" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="472,1952 498,1952 498,1979 472,1979"/>
+                    <TextEquiv>
+                        <Unicode>J.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c81b1ac35" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="519,1953 801,1953 801,1986 519,1986"/>
+                    <TextEquiv>
+                        <Unicode>spaansrietvlechler.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c81b1ac75" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="823,1954 902,1954 902,1986 823,1986"/>
+                    <TextEquiv>
+                        <Unicode>lange</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c81b1ac87" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="922,1959 1079,1959 1079,1988 922,1988"/>
+                    <TextEquiv>
+                        <Unicode>smccstccg,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c81b1ad109" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="1102,1954 1123,1954 1123,1979 1102,1979"/>
+                    <TextEquiv>
+                        <Unicode>B</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c81b1ad113" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="1143,1953 1205,1953 1205,1981 1143,1981"/>
+                    <TextEquiv>
+                        <Unicode>G35.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Esscnberg, E. J. spaansrietvlechler. lange smccstccg, B G35.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Esscnberg, E. J. spaansrietvlechler. lange smccstccg, B G35.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_42" custom="readingOrder {index:43;}">
+            <Coords points="239,1983 990,1983 990,2026 239,2026"/>
+            <TextLine id="tl_51" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="240,1984 989,1984 989,2025 240,2025"/>
+                <Baseline points="240,2012 334,2020 389,2014 470,2020 678,2017 848,2023 891,2016 928,2018 980,2008 989,2017"/>
+                <Word id="w_w2aab1b5b2c83b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="240,1984 334,1984 334,2020 240,2020"/>
+                    <TextEquiv>
+                        <Unicode>Essen,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c83b1ac15" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="358,1986 389,1986 389,2014 358,2014"/>
+                    <TextEquiv>
+                        <Unicode>B.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c83b1ac21" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="411,1995 470,1995 470,2020 411,2020"/>
+                    <TextEquiv>
+                        <Unicode>van,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c83b1ac31" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="495,1989 678,1989 678,2017 495,2017"/>
+                    <TextEquiv>
+                        <Unicode>timmerman.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c83b1ac53" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="699,1995 848,1995 848,2023 699,2023"/>
+                    <TextEquiv>
+                        <Unicode>sLeenwc",</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c83b1ac73" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="871,1990 891,1990 891,2017 871,2017"/>
+                    <TextEquiv>
+                        <Unicode>J)</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c83b1ac79" language="English" custom="readingOrder {index:6;}">
+                    <Coords points="912,1990 966,1990 966,2018 912,2018"/>
+                    <TextEquiv>
+                        <Unicode>420</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c83b1b1b1" language="English" custom="readingOrder {index:7;}">
+                    <Coords points="968,1991 980,1991 980,2008 968,2008"/>
+                    <TextEquiv>
+                        <Unicode>b</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0" superscript="true"/>
+                </Word>
+                <Word id="w_w2aab1b5b2c83b1b2b1" language="English" custom="readingOrder {index:8;}">
+                    <Coords points="984,2011 989,2011 989,2017 984,2017"/>
+                    <TextEquiv>
+                        <Unicode>.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="37.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Essen, B. van, timmerman. sLeenwc", J) 420b.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Essen, B. van, timmerman. sLeenwc", J) 420b.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:44;}">
+            <Coords points="1340,2109 1352,2109 1352,2120 1340,2120"/>
+            <TextLine id="tl_52" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1341,2110 1351,2110 1351,2119 1341,2119"/>
+                <Baseline points="1341,2119 1351,2119"/>
+                <Word id="w_w2aab1b7b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1341,2110 1351,2110 1351,2119 1341,2119"/>
+                    <TextEquiv>
+                        <Unicode>v</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>v</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>v</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:45;}">
+            <Coords points="272,2207 318,2207 318,2211 272,2211"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:46;}">
+            <Coords points="1406,30 1412,30 1412,657 1406,657"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:47;}">
+            <Coords points="1409,657 1412,657 1412,788 1409,788"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:48;}">
+            <Coords points="1410,834 1412,834 1412,895 1410,895"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:49;}">
+            <Coords points="1410,978 1412,978 1412,1085 1410,1085"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:50;}">
+            <Coords points="1410,1121 1412,1121 1412,1177 1410,1177"/>
+        </SeparatorRegion>
+        <GraphicRegion id="r_11" custom="readingOrder {index:51;}">
+            <Coords points="773,1180 787,1180 787,1205 773,1205"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

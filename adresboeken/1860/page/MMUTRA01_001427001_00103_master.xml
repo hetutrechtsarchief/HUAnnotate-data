@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2019-06-24T17:08:16.191+02:00</Created>
+        <LastChange>2019-06-24T17:09:41.109+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="176305" pageId="6791680" pageNr="103" tsid="11862048" status="IN_PROGRESS" userId="35672" imgUrl="https://files.transkribus.eu/Get?id=ILKAUOXEWMBSQOZILQSMZTJZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QPDOXCRPNKDAXIDCLMTXGHUQ" imageId="4144547"/>
+    </Metadata>
+    <Page imageFilename="MMUTRA01_001427001_00103_master.jpg" imageWidth="1414" imageHeight="2211">
+        <PrintSpace>
+            <Coords points="0,0 1414,0 1414,2211 0,2211"/>
+        </PrintSpace>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1414,0 1414,2211 0,2211"/>
+        </GraphicRegion>
+        <SeparatorRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="219,28 254,28 254,30 219,30"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

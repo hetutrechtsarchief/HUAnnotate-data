@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2019-06-24T17:07:09.493+02:00</Created>
+        <LastChange>2019-06-24T17:08:19.174+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: DutchStandard
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="176305" pageId="6791553" pageNr="6" tsid="11861492" status="IN_PROGRESS" userId="35672" imgUrl="https://files.transkribus.eu/Get?id=UVCGANRPILYCTAUACZFZDGED&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DYQIWDOBVILJCVXGJBRADYOA" imageId="4144420"/>
+    </Metadata>
+    <Page imageFilename="MMUTRA01_001427001_00006_master.jpg" imageWidth="1384" imageHeight="2210">
+        <PrintSpace>
+            <Coords points="238,29 1384,29 1384,1258 238,1258"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1605519457737" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="238,933 1090,933 1090,1036 238,1036"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="279,934 1089,934 1089,980 279,980"/>
+                <Baseline points="279,971 377,971 589,968 734,964 928,961 1014,961 1089,962"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="279,943 377,943 377,971 279,971"/>
+                    <TextEquiv>
+                        <Unicode>Geene</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac13" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="405,941 589,941 589,980 405,980"/>
+                    <TextEquiv>
+                        <Unicode>exemplaren</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac35" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="617,938 734,938 734,967 617,967"/>
+                    <TextEquiv>
+                        <Unicode>worden</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac49" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="763,934 928,934 928,973 763,973"/>
+                    <TextEquiv>
+                        <Unicode>afgeleverd</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac71" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="957,934 1014,934 1014,962 957,962"/>
+                    <TextEquiv>
+                        <Unicode>dan</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac79" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="1043,934 1089,934 1089,962 1043,962"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Geene exemplaren worden afgeleverd dan die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="239,993 732,993 732,1035 239,1035"/>
+                <Baseline points="239,1035 273,1026 342,1025 404,1024 497,1023 554,1023 732,1018"/>
+                <Word id="w_w2aab1b1b2b1b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="239,1007 273,1007 273,1035 239,1035"/>
+                    <TextEquiv>
+                        <Unicode>ge</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b3ab7" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="277,997 342,997 342,1026 277,1026"/>
+                    <TextEquiv>
+                        <Unicode>teek</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b3ac17" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="347,996 404,996 404,1025 347,1025"/>
+                    <TextEquiv>
+                        <Unicode>end</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b3ac25" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="426,996 497,996 497,1023 426,1023"/>
+                    <TextEquiv>
+                        <Unicode>door</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b3ac35" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="519,995 554,995 554,1023 519,1023"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b3ac41" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="576,993 732,993 732,1030 576,1030"/>
+                    <TextEquiv>
+                        <Unicode>uitgevers.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ge teek end door de uitgevers.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="39.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Geene exemplaren worden afgeleverd dan die
+ge teek end door de uitgevers.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="1045,1180 1136,1180 1136,1186 1045,1186"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="604,1239 698,1239 698,1244 604,1244"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="752,1242 863,1242 863,1248 752,1248"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1122,1249 1198,1249 1198,1252 1122,1252"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="942,1253 1009,1253 1009,1258 942,1258"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1369,40 1371,40 1371,86 1369,86"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1370,134 1372,134 1372,164 1370,164"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1376,29 1384,29 1384,433 1376,433"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1381,433 1384,433 1384,1048 1381,1048"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
